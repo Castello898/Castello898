@@ -24,9 +24,10 @@ I specialize in the intersection of **Embedded AI** and **Distributed Systems**,
 ---
 
 ### 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Castello898&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Castello's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castello898&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Castello898&show_icons=true&theme=tokyonight&count_private=true" alt="Castello's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castello898&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="180px" />
 </p>
 
 ---
@@ -41,6 +42,3 @@ I specialize in the intersection of **Embedded AI** and **Distributed Systems**,
 
 ---
 
-<p align="center">
-  <sub>Built with ❤️ by Castello</sub>
-</p>
