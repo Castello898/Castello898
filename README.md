@@ -1,22 +1,46 @@
-# Hi there!! I'm Castello 👋
+# Hi there, I'm Castello 👋
+
+### ⚡ Software Engineer & Researcher
+I specialize in the intersection of **Embedded AI** and **Distributed Systems**, focusing on optimizing intelligent algorithms for constrained environments.
+
+---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Embedded AI Research** and **Distributed Systems**.
-- 🌱 Researching systematic mapping for AI integration in low-power devices.
-- 🎨 Outside of coding, I'm an artist—find my work on X/Twitter!
-- 🐍 Primary focus: Python, Lua, and C++.
+- 🔭 **Current Focus:** Embedded AI Research and Distributed Systems architecture.
+- 🌱 **Learning:** Systematic mapping for AI integration in low-power devices.
+- 🎨 **Creative Side:** When I'm not coding, I'm creating art. Check out my work on [X/Twitter](https://twitter.com/SEU_USER_AQUI)!
+- 🎯 **Main Goals:** Developing scalable solutions and pushing the boundaries of edge computing.
+
+---
 
 ### 🛠 Tech Stack
-| Category | Tools |
+
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Tools** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-21493E?style=flat-square&logo=linux-mint&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white) |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Development** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) |
 | **Hardware/IoT** | ![Google ADK](https://img.shields.io/badge/-Google%20ADK-3DDC84?style=flat-square&logo=android&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
 
+---
+
 ### 📊 GitHub Stats
-![Castello's Stats](https://github-readme-stats.vercel.app/api?username=Castello898&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Castello898&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Castello898&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Castello's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castello898&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+</p>
+
+---
 
 ### 📂 Featured Projects
-- **[ProjetoSD](https://github.com/Castello898/ProjetoSD)**: Distributed systems project for Computer Science.
-- **[AgenteSuporte](https://github.com/Castello898/AgenteSuporte)**: Multi-agent support system.
+
+> [!TIP]
+> Check out some of my most relevant work below:
+
+* **[ProjetoSD](https://github.com/Castello898/ProjetoSD)** - High-performance distributed systems architecture developed for Computer Science research.
+* **[AgenteSuporte](https://github.com/Castello898/AgenteSuporte)** - An intelligent multi-agent system designed to streamline support workflows.
+
+---
+
+<p align="center">
+  <sub>Built with ❤️ by Castello</sub>
+</p>
