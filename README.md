@@ -8,7 +8,7 @@ I specialize in the intersection of **Embedded AI** and **Distributed Systems**,
 ### 🚀 About Me
 - 🔭 **Current Focus:** Embedded AI Research and Distributed Systems architecture.
 - 🌱 **Learning:** Systematic mapping for AI integration in low-power devices.
-- 🎨 **Creative Side:** When I'm not coding, I'm creating art. Check out my work on [X/Twitter](https://twitter.com/SEU_USER_AQUI)!
+- 🎨 **Creative Side:** When I'm not coding, I'm creating art. Check out my work on [ArtSTation!](https://www.artstation.com/castello898)!
 - 🎯 **Main Goals:** Developing scalable solutions and pushing the boundaries of edge computing.
 
 ---
